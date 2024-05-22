@@ -1,10 +1,4 @@
 # Module2_Avalanche
-
-Sure, here's a README file that explains how to set up and use the provided smart contract and frontend application.
-
-```markdown
-# Metacrafters ATM DApp
-
 This project is a decentralized application (DApp) that simulates an ATM, allowing the owner to deposit and withdraw ETH. The DApp is built using Solidity for the smart contract and React for the frontend.
 
 ## Prerequisites
